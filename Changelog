@@ -2,11 +2,12 @@ Strawberry Music Player
 =======================
 ChangeLog
 
-Unreleased:
+Version 1.2.7 (2025.01.31):
 
    Bugfixes:
      * Fixed strawberry exiting when clicking tray icon.
      * Fixed Clementine import script errors.
+     * Disabled OSD Pretty on Wayland since it's not working properly.
 
   Enhancements:
      * Only maximize error dialog if Strawberry is the active window (#1627).
